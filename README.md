@@ -27,7 +27,7 @@ The new review and rating system in Codies Mess allows you to share your feedbac
 - Single Page App Experience:
 React Router implementation creates a seamless, no-reload browsing experience for this single-page application.
 
-## Technologies Used:
+### Technologies Used:
 - Front End
   - HTML
   - CSS
